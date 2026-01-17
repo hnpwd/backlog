@@ -10,8 +10,6 @@ top-level comments posted to the [HN thread][HNT] for this project.
 Backlog Table
 -------------
 
-The backlog table is available here:
-
 **[backlog.md][]**
 
 [backlog.md]: backlog.md
