@@ -1,11 +1,11 @@
-| #    | COMMENT                                       | URL                                 | D | I | REM             |
+| #    | COMMENT                                       | URL                                 | D | I | REMARKS         |
 |------|-----------------------------------------------|-------------------------------------|---|---|-----------------|
 | 0001 | https://news.ycombinator.com/item?id=46618723 | https://jgc.org/                    | Y | Y |                 |
-| 0002 | https://news.ycombinator.com/item?id=46618740 | -                                   |   |   |                 |
-| 0003 | https://news.ycombinator.com/item?id=46619100 | -                                   |   |   |                 |
-| 0004 | https://news.ycombinator.com/item?id=46619251 | https://nchagnet.pages.dev          |   |   |                 |
-| 0005 | https://news.ycombinator.com/item?id=46619420 | https://blog.denv.it/               |   |   |                 |
-| 0006 | https://news.ycombinator.com/item?id=46619432 | https://anderegg.ca                 |   |   |                 |
+| 0002 | https://news.ycombinator.com/item?id=46618740 | -                                   | - | - |                 |
+| 0003 | https://news.ycombinator.com/item?id=46619100 | -                                   | - | - |                 |
+| 0004 | https://news.ycombinator.com/item?id=46619251 | https://nchagnet.pages.dev          | Y | Y |                 |
+| 0005 | https://news.ycombinator.com/item?id=46619420 | https://blog.denv.it/               | N | - | Only 3 posts    |
+| 0006 | https://news.ycombinator.com/item?id=46619432 | https://anderegg.ca                 | Y | Y |                 |
 | 0007 | https://news.ycombinator.com/item?id=46619440 | https://cliftbar.site/              |   |   |                 |
 | 0008 | https://news.ycombinator.com/item?id=46619468 | https://doap.metal.bohyen.space/    |   |   |                 |
 | 0009 | https://news.ycombinator.com/item?id=46619470 | https://antonvasin.com              |   |   |                 |

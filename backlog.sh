@@ -1,7 +1,7 @@
 #!/bin/sh
 
 touch backlog.md
-echo '| #    | COMMENT                                       | URL                                 | D | I | REM             |' > tmp.md
+echo '| #    | COMMENT                                       | URL                                 | D | I | REMARKS         |' > tmp.md
 echo '|------|-----------------------------------------------|-------------------------------------|---|---|-----------------|' >> tmp.md
 #    '| 0001 | https://news.ycombinator.com/item?id=46618723 | https://jgc.org/                    | Y | Y |                 |'
                                              sfmt='| %s | %s |                                     |   |   |                 |'
