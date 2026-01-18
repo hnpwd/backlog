@@ -35,6 +35,7 @@ Here is how to maintain this table:
 
    - `Y`: Yes, we want to include this website in the directory.
    - `N`: No, we do not want to include the website in the directory.
+   - `R`: Revisit later.  When there are less than 5 substantive articles.
    - `-`: No relevant link or website address was found.
    - `?`: Uncertain if this belongs to the directory.
 
@@ -44,8 +45,9 @@ Here is how to maintain this table:
    - `Y`: Yes, the website has already been added to the directory.
    - `-`: Otherwise.
 
-4. Column **REM**: If the answer to the **D** column was `N` or `?`,
-   write a very brief justification here.  Otherwise, leave it blank.
+4. Column **REMARKS**: If the answer to the **D** column was `N` or
+   `?`, write a very brief justification here.  Otherwise, leave it
+   blank.
 
 Formatting guideline: Susam uses Emacs to edit the table which
 automatically reformats the table neatly to align all the columns
