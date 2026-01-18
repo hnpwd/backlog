@@ -7,18 +7,20 @@ top-level comments posted to the [HN thread][HNT] for this project.
 [HNT]: https://news.ycombinator.com/item?id=46618714
 
 
-Backlog Table
--------------
-
-**[backlog.md][]**
-
-[backlog.md]: backlog.md
-
-
-Maintain Table
+Backlog Tables
 --------------
 
-Here is how to maintain this table:
+- [backlog01.md](backlog01.md)
+- [backlog02.md](backlog02.md)
+- [backlog03.md](backlog03.md)
+- [backlog04.md](backlog04.md)
+- [backlog05.md](backlog05.md)
+
+
+Maintain Tables
+---------------
+
+Here is how to maintain these tables:
 
 1. Column **COMMENT**: Review each link one by one and visit the link
    (if any) shared by the commenter.  If there are multiple links,
@@ -49,29 +51,29 @@ Here is how to maintain this table:
    `?`, write a very brief justification here.  Otherwise, leave it
    blank.
 
-Formatting guideline: Susam uses Emacs to edit the table which
-automatically reformats the table neatly to align all the columns
+Formatting guideline: Susam uses Emacs to edit the tables which
+automatically reformats the tables neatly to align all the columns
 perfectly.  However, other collaborators do not have to do this if
 their editor does not support such a feature.  It is okay to make the
 alignment messy as long as the data in it is correct.  However,
-everytime Susam touches this file, the table will get reformatted and
+everytime Susam touches this file, the tables will get reformatted and
 realigned.
 
 
-Refresh Table
--------------
+Refresh Tables
+--------------
 
-The table can be updated anytime with the latest comments from the HN
+The tables can be updated anytime with the latest comments from the HN
 thread by entering the following command:
 
 ```sh
 make update
 ```
 
-**CAUTION:** Remember to save your current edits to `backlog.md`
+**CAUTION:** Remember to save your current edits to the backlog files
 before running the above command.
 
 The above command will fetch all the top-level comments from the
 aforementioned HN thread and insert the missing comments into the
-table.  While doing so, it will preserve all existing comments and our
-edits in the file.
+tables.  While doing so, it will preserve all existing comments and
+our edits in the file.
