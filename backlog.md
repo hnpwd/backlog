@@ -2160,3 +2160,5 @@
 | 2158 | https://news.ycombinator.com/item?id=46661633 |                                     |   |   |                 |
 | 2159 | https://news.ycombinator.com/item?id=46662445 |                                     |   |   |                 |
 | 2160 | https://news.ycombinator.com/item?id=46663437 |                                     |   |   |                 |
+| 2161 | https://news.ycombinator.com/item?id=46664110 |                                     |   |   |                 |
+| 2162 | https://news.ycombinator.com/item?id=46664550 |                                     |   |   |                 |
