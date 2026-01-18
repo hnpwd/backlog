@@ -1,5 +1,5 @@
-Backlog Guide
-=============
+HNPWD Backlog Tracker
+=====================
 
 This project includes a backlog table that tracks our review of all
 top-level comments posted to the [HN thread][HNT] for this project.
@@ -31,12 +31,12 @@ Here is how to maintain this table:
 
 3. Column **D**: This is the decision column.  After reviewing the
    website, decide whether we should include it in our directory.
-   Enter the decision in the **D** column as `Y` or `N` or `-`
-   described as follows:
+   Enter the decision in the **D** column as described below:
 
    - `Y`: Yes, we want to include this website in the directory.
    - `N`: No, we do not want to include the website in the directory.
    - `-`: No relevant link or website address was found.
+   - `?`: Uncertain if this belongs to the directory.
 
 4. Column **I**: This is the inclusion status that reflects whether a
    website has already been added to the directory.  Enter as follows:
@@ -44,8 +44,8 @@ Here is how to maintain this table:
    - `Y`: Yes, the website has already been added to the directory.
    - `-`: Otherwise.
 
-4. Column **REM**: If the answer to the **D** column was `N`, write a
-   very brief justification here.  Otherwise, leave it blank.
+4. Column **REM**: If the answer to the **D** column was `N` or `?`,
+   write a very brief justification here.  Otherwise, leave it blank.
 
 Formatting guideline: Susam uses Emacs to edit the table which
 automatically reformats the table neatly to align all the columns
