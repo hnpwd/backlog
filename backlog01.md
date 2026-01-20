@@ -14,9 +14,9 @@
 | 0012 | https://news.ycombinator.com/item?id=46619515 | https://michaelsalim.co.uk                      | Y | Y |                              |
 | 0013 | https://news.ycombinator.com/item?id=46619519 | https://lekevicius.com                          | N | - | Portfolio                    |
 | 0014 | https://news.ycombinator.com/item?id=46619521 | https://xorvoid.com                             | Y | Y |                              |
-| 0015 | https://news.ycombinator.com/item?id=46619537 | -                                               |   |   |                              |
+| 0015 | https://news.ycombinator.com/item?id=46619537 | -                                               | - | - |                              |
 | 0016 | https://news.ycombinator.com/item?id=46619541 | https://ja.cob.land                             | R | - | Only 3 posts                 |
-| 0017 | https://news.ycombinator.com/item?id=46619545 | https://davidfrancoeur.com/                     |   |   |                              |
+| 0017 | https://news.ycombinator.com/item?id=46619545 | https://davidfrancoeur.com/                     | Y | Y |                              |
 | 0018 | https://news.ycombinator.com/item?id=46619547 | https://xeiaso.net                              | Y | Y |                              |
 | 0019 | https://news.ycombinator.com/item?id=46619552 | https://amithpatel.com/                         | N | - | Portfolio only               |
 | 0020 | https://news.ycombinator.com/item?id=46619553 | https://dianazink.com/                          |   |   |                              |
