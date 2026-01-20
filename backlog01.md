@@ -2,7 +2,7 @@
 |------|-----------------------------------------------|-------------------------------------------------|---|---|------------------------------|
 | 0001 | https://news.ycombinator.com/item?id=46618723 | https://jgc.org/                                | Y | Y |                              |
 | 0002 | https://news.ycombinator.com/item?id=46618740 | -                                               | - | - |                              |
-| 0003 | https://news.ycombinator.com/item?id=46619100 | -                                               | - | - |                              |
+| 0003 | https://news.ycombinator.com/item?id=46619100 | https://zahlman.github.io/                      | Y | Y |                              |
 | 0004 | https://news.ycombinator.com/item?id=46619251 | https://nchagnet.pages.dev                      | Y | Y |                              |
 | 0005 | https://news.ycombinator.com/item?id=46619420 | https://blog.denv.it/                           | R | - | Only 3 posts                 |
 | 0006 | https://news.ycombinator.com/item?id=46619432 | https://anderegg.ca                             | Y | Y |                              |
