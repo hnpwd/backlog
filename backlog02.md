@@ -2,7 +2,7 @@
 |------|-----------------------------------------------|-------------------------------------------------|---|---|------------------------------|
 | 0501 | https://news.ycombinator.com/item?id=46622191 | https://tomclancy.info/                         | Y | Y |                              |
 | 0502 | https://news.ycombinator.com/item?id=46622195 | https://blog.winricklabs.com/                   | Y | Y |                              |
-| 0503 | https://news.ycombinator.com/item?id=46622199 |                                                 |   |   |                              |
+| 0503 | https://news.ycombinator.com/item?id=46622199 | https://javiergarmon.com/                       | N | - | Less than 5 posts            |
 | 0504 | https://news.ycombinator.com/item?id=46622203 |                                                 |   |   |                              |
 | 0505 | https://news.ycombinator.com/item?id=46622232 |                                                 |   |   |                              |
 | 0506 | https://news.ycombinator.com/item?id=46622236 |                                                 |   |   |                              |
