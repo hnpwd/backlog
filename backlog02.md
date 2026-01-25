@@ -11,7 +11,7 @@
 | 0509 | https://news.ycombinator.com/item?id=46622247 | https://swharden.com/                           | Y | Y |                              |
 | 0510 | https://news.ycombinator.com/item?id=46622251 | https://doug.lon.dev/                           | Y | Y |                              |
 | 0511 | https://news.ycombinator.com/item?id=46622255 | https://www.immibis.com/blog/                   | Y | Y |                              |
-| 0512 | https://news.ycombinator.com/item?id=46622258 | https://andrew.grahamyooll.com/                 |   |   |                              |
+| 0512 | https://news.ycombinator.com/item?id=46622258 | https://andrew.grahamyooll.com/                 | Y | Y |                              |
 | 0513 | https://news.ycombinator.com/item?id=46622261 | https://blog.atomic14.com/                      |   |   |                              |
 | 0514 | https://news.ycombinator.com/item?id=46622264 | https://www.jillesvangurp.com/                  |   |   |                              |
 | 0515 | https://news.ycombinator.com/item?id=46622270 | https://lab6.com/                               |   |   |                              |
