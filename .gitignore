@@ -1,2 +1,4 @@
 ids.txt
 tmp.md
+.vscode
+*.fasl
